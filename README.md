@@ -132,20 +132,6 @@ To automate the script's execution daily at midnight:
 
 ---
 
-### Importing the Schema
-If you have exported the schema, import it using:
-```bash
-mysql -u imdb_user -p imdb < imdb_schema.sql
-```
-
-### Verifying the Table
-To confirm the table structure:
-```sql
-DESCRIBE top_250_movies;
-```
-
----
-
 ## Files Included
 
 - `src/main.py`: The main script for scraping IMDb and saving data.
