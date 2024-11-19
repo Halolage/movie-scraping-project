@@ -31,7 +31,7 @@ It tracks rank changes and supports flexible storage formats, including JSON and
 ### Setting Up this Environment
 1. Clone this repository:
    ```
-   git clone https://github.com/halolage/movie-scraping-project.git
+   git clone https://github.com/Halolage/movie-scraping-project.git
    cd movie-scraping-project
    ```
 
